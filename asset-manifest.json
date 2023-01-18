@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hockeylivedeploy/static/css/main.04f2263c.css",
+    "main.js": "/hockeylivedeploy/static/js/main.2d3526d6.js",
+    "static/js/787.4a43914c.chunk.js": "/hockeylivedeploy/static/js/787.4a43914c.chunk.js",
+    "index.html": "/hockeylivedeploy/index.html",
+    "main.04f2263c.css.map": "/hockeylivedeploy/static/css/main.04f2263c.css.map",
+    "main.2d3526d6.js.map": "/hockeylivedeploy/static/js/main.2d3526d6.js.map",
+    "787.4a43914c.chunk.js.map": "/hockeylivedeploy/static/js/787.4a43914c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f2263c.css",
+    "static/js/main.2d3526d6.js"
+  ]
+}
